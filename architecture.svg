@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+
+  <rect width="1000" height="600" fill="#ffffff"/>
+
+  <text x="500" y="55"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="30"
+        font-weight="bold"
+        fill="#222">
+    Mini StudyMate AI Agent
+  </text>
+
+  <!-- User -->
+  <rect x="350" y="90" width="300" height="70"
+        rx="12" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+
+  <text x="500" y="133"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="20"
+        font-weight="bold">
+    👤 User Input
+  </text>
+
+  <!-- Arrow -->
+  <line x1="500" y1="160" x2="500" y2="210"
+        stroke="#333" stroke-width="3"/>
+  <polygon points="500,220 492,205 508,205" fill="#333"/>
+
+  <!-- Agent -->
+  <rect x="300" y="220" width="400" height="80"
+        rx="12" fill="#e8f4ff" stroke="#333" stroke-width="2"/>
+
+  <text x="500" y="253"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="22"
+        font-weight="bold">
+    🤖 StudyMate Agent
+  </text>
+
+  <text x="500" y="280"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="16">
+    Tool Selection
+  </text>
+
+  <!-- Lines to tools -->
+  <line x1="400" y1="300" x2="200" y2="370"
+        stroke="#333" stroke-width="3"/>
+
+  <line x1="500" y1="300" x2="500" y2="370"
+        stroke="#333" stroke-width="3"/>
+
+  <line x1="600" y1="300" x2="800" y2="370"
+        stroke="#333" stroke-width="3"/>
+
+  <!-- Calculator -->
+  <rect x="80" y="370" width="240" height="100"
+        rx="12" fill="#f5f5f5" stroke="#333" stroke-width="2"/>
+
+  <text x="200" y="410"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="20"
+        font-weight="bold">
+    🧮 Calculator
+  </text>
+
+  <text x="200" y="440"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="15">
+    Mathematical expressions
+  </text>
+
+  <!-- Planner -->
+  <rect x="380" y="370" width="240" height="100"
+        rx="12" fill="#f5f5f5" stroke="#333" stroke-width="2"/>
+
+  <text x="500" y="410"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="20"
+        font-weight="bold">
+    📅 Study Planner
+  </text>
+
+  <text x="500" y="440"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="15">
+    3-day study plans
+  </text>
+
+  <!-- Explainer -->
+  <rect x="680" y="370" width="240" height="100"
+        rx="12" fill="#f5f5f5" stroke="#333" stroke-width="2"/>
+
+  <text x="800" y="410"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="20"
+        font-weight="bold">
+    📚 Explainer
+  </text>
+
+  <text x="800" y="440"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="15">
+    Technical concepts
+  </text>
+
+  <!-- Model -->
+  <rect x="300" y="510" width="400" height="60"
+        rx="12" fill="#eeeeee" stroke="#333" stroke-width="2"/>
+
+  <text x="500" y="547"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="18"
+        font-weight="bold">
+    🧠 SmolLM2-1.7B-Instruct
+  </text>
+
+</svg>
