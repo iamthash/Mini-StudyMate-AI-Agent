@@ -167,5 +167,20 @@ Possible future improvements include:
 Mini StudyMate AI Agent
 
 A practical AI learning project built with Python, Hugging Face Transformers, and an open-source language model.
+---
+
+## 📸 Application Screenshots
+
+### 🧮 Calculator
+
+![Calculator Demo](calculator.png.jpg)
+
+### 📚 Concept Explainer
+
+![Concept Explanation Demo](concept-explanation.png.jpg)
+
+### 📅 Study Planner
+
+![Study Planner Demo](study-planner.png.jpg)
 
 ⭐ If you find this project useful, consider giving the repository a star.
